@@ -16,7 +16,7 @@ A variation of the traditional Hangman game by replacing character-based punishm
 
 ## Live Demo
 
-[buzzpeep.netlify.app](https://buzzpeep.netlify.app/)
+[collapsebridge.netlify.app](https://collapsebridge.netlify.app)
 
 ## Screenshots
 
