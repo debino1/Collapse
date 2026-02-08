@@ -1,6 +1,6 @@
 # Collapse
 
-A variation of the traditional Hangman game by replacing character-based punishment with a structural metaphor.
+A variation of the traditional Hangman game by replacing character punishment with a structural metaphor.
 
 ## Tech Used
 
