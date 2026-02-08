@@ -2,7 +2,6 @@ import { useState, useEffect } from "react"
 import { clsx } from "clsx"
 import { supports } from "./supports.js"
 import { getFarewellText, getRandomWord } from "./utils.js"
-import Confetti from "react-confetti"
 
 export default function Collapse() {
     // State values
